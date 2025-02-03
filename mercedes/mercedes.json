@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes-Benz A-Class",
+        "description": "The Mercedes-Benz A-Class is a compact car produced by the German automobile manufacturer Mercedes-Benz. It is available as a hatchback or sedan.",
+        "price": 33000,
+        "isAvailable": true,
+        "releaseDate": "2018-10-01",
+        "imageUrl": "https://example.com/images/a-class.jpg",
+        "category": "Compact Car",
+        "features": ["LED Headlights", "Touchscreen Display", "Keyless Go"],
+        "engine": {
+            "id": 101,
+            "type": "Inline-4",
+            "horsepower": 188,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/a-class-engine.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Mercedes-Benz C-Class",
+        "description": "The Mercedes-Benz C-Class is a series of compact executive cars produced by Mercedes-Benz. It is available as a sedan, coupe, or convertible.",
+        "price": 41500,
+        "isAvailable": true,
+        "releaseDate": "2021-03-15",
+        "imageUrl": "https://example.com/images/c-class.jpg",
+        "category": "Executive Car",
+        "features": ["Panoramic Sunroof", "Ambient Lighting", "Wireless Charging"],
+        "engine": {
+            "id": 102,
+            "type": "Inline-4 Turbo",
+            "horsepower": 255,
+            "fuelType": "Hybrid",
+            "imageUrl": "https://example.com/images/c-class-engine.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Mercedes-Benz E-Class",
+        "description": "The Mercedes-Benz E-Class is a range of executive cars manufactured by Mercedes-Benz. It is known for its luxury and advanced technology.",
+        "price": 54000,
+        "isAvailable": true,
+        "releaseDate": "2020-07-20",
+        "imageUrl": "https://example.com/images/e-class.jpg",
+        "category": "Executive Car",
+        "features": ["Autonomous Driving", "Heated Seats", "Burmester Sound System"],
+        "engine": {
+            "id": 103,
+            "type": "V6",
+            "horsepower": 362,
+            "fuelType": "Diesel",
+            "imageUrl": "https://example.com/images/e-class-engine.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mercedes-Benz S-Class",
+        "description": "The Mercedes-Benz S-Class is a series of full-size luxury sedans and limousines produced by Mercedes-Benz. It is the flagship model of the brand.",
+        "price": 95000,
+        "isAvailable": true,
+        "releaseDate": "2022-01-10",
+        "imageUrl": "https://example.com/images/s-class.jpg",
+        "category": "Luxury Sedan",
+        "features": ["Massage Seats", "4D Sound System", "Magic Body Control"],
+        "engine": {
+            "id": 104,
+            "type": "V8 Biturbo",
+            "horsepower": 496,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/s-class-engine.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mercedes-Benz GLC",
+        "description": "The Mercedes-Benz GLC is a compact luxury crossover SUV produced by Mercedes-Benz. It combines luxury with practicality.",
+        "price": 48000,
+        "isAvailable": true,
+        "releaseDate": "2019-05-25",
+        "imageUrl": "https://example.com/images/glc.jpg",
+        "category": "SUV",
+        "features": ["All-Wheel Drive", "Off-Road Mode", "Electric Tailgate"],
+        "engine": {
+            "id": 105,
+            "type": "Inline-4 Turbo",
+            "horsepower": 241,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/glc-engine.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mercedes-Benz GLE",
+        "description": "The Mercedes-Benz GLE is a mid-size luxury SUV produced by Mercedes-Benz. It offers a blend of comfort and performance.",
+        "price": 62000,
+        "isAvailable": true,
+        "releaseDate": "2021-11-12",
+        "imageUrl": "https://example.com/images/gle.jpg",
+        "category": "SUV",
+        "features": ["Air Suspension", "Third Row Seating", "MBUX Infotainment"],
+        "engine": {
+            "id": 106,
+            "type": "V6 Turbo",
+            "horsepower": 367,
+            "fuelType": "Diesel",
+            "imageUrl": "https://example.com/images/gle-engine.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Mercedes-Benz G-Class",
+        "description": "The Mercedes-Benz G-Class, also known as the G-Wagon, is a luxury SUV produced by Mercedes-Benz. It is known for its iconic boxy design and off-road capabilities.",
+        "price": 130000,
+        "isAvailable": true,
+        "releaseDate": "2020-09-30",
+        "imageUrl": "https://example.com/images/g-class.jpg",
+        "category": "Luxury SUV",
+        "features": ["Three Differential Locks", "Handcrafted Interior", "Off-Road Package"],
+        "engine": {
+            "id": 107,
+            "type": "V8 Biturbo",
+            "horsepower": 577,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/g-class-engine.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Mercedes-Benz CLA",
+        "description": "The Mercedes-Benz CLA is a compact executive car produced by Mercedes-Benz. It is available as a four-door coupe or shooting brake.",
+        "price": 37000,
+        "isAvailable": true,
+        "releaseDate": "2019-08-14",
+        "imageUrl": "https://example.com/images/cla.jpg",
+        "category": "Compact Executive Car",
+        "features": ["MBUX System", "AMG Line", "Electric Front Seats"],
+        "engine": {
+            "id": 108,
+            "type": "Inline-4 Turbo",
+            "horsepower": 221,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/cla-engine.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Mercedes-Benz SL",
+        "description": "The Mercedes-Benz SL is a grand tourer produced by Mercedes-Benz. It is known for its luxurious interior and powerful performance.",
+        "price": 90000,
+        "isAvailable": true,
+        "releaseDate": "2022-06-05",
+        "imageUrl": "https://example.com/images/sl.jpg",
+        "category": "Grand Tourer",
+        "features": ["Retractable Hardtop", "AMG Performance", "Heated Steering Wheel"],
+        "engine": {
+            "id": 109,
+            "type": "V8 Biturbo",
+            "horsepower": 469,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/sl-engine.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Mercedes-Benz AMG GT",
+        "description": "The Mercedes-Benz AMG GT is a sports car produced by Mercedes-AMG. It is available as a coupe or roadster.",
+        "price": 115000,
+        "isAvailable": true,
+        "releaseDate": "2021-04-22",
+        "imageUrl": "https://example.com/images/amg-gt.jpg",
+        "category": "Sports Car",
+        "features": ["AMG Performance Exhaust", "Carbon Fiber Interior", "Race Mode"],
+        "engine": {
+            "id": 110,
+            "type": "V8 Biturbo",
+            "horsepower": 523,
+            "fuelType": "Petrol",
+            "imageUrl": "https://example.com/images/amg-gt-engine.jpg"
+        }
+    }
+]
